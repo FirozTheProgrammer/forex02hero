@@ -1,8 +1,10 @@
 {
   "name": "forex-02-hero",
   "version": "1.0.0",
- 
   "main": "index.js",
+  "engines": {
+    "node": "20.10.0"
+  },
   "scripts": {
     "dev": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
